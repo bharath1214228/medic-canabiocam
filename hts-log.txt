@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 17:59:35 at https://html.modernwebtemplates.com/canabicom/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.modernwebtemplates.com/canabicom/# -O1 "C:\Users\dell\Desktop\barath\medic4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:03:13	Warning: 	Retry after error 409 (Conflict) at link https://html.modernwebtemplates.com/canabicom/contact.html (from https://html.modernwebtemplates.com/canabicom/)
+18:03:24	Warning: 	Retry after error 409 (Conflict) at link https://html.modernwebtemplates.com/canabicom/contact.html (from https://html.modernwebtemplates.com/canabicom/)
+18:03:25	Error: 	"Conflict" (409) after 2 retries at link https://html.modernwebtemplates.com/canabicom/contact.html (from https://html.modernwebtemplates.com/canabicom/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 271 links scanned, 267 files written (19555630 bytes overall) [13692189 bytes received at 59531 bytes/sec], 8315090 bytes transferred using HTTP compression in 125 files, ratio 26%, 45.1 requests per connection
+(1 errors, 2 warnings, 0 messages)
